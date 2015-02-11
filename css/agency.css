@@ -189,6 +189,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
+
 }
 
 .navbar-default .navbar-toggle {
@@ -198,6 +199,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
+
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -235,7 +237,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: black;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -266,7 +268,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/frc/team2013.jpg);
+    background-image: url(../photos/2014team.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
